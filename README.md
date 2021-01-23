@@ -17,7 +17,7 @@
 
 
 В качестве тестовых данных использовались данные:
-* [Код программы](https://github.com/Vladimir198/java_2.1_/blob/master/Main.java)
+* [Код программы](https://github.com/Vladimir198/java_2.2_/blob/master/Main.java)
 * regularBonus = 0.3
 * specialBonus = 0.6
 
